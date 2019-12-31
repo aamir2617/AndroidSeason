@@ -1,0 +1,2 @@
+rootProject.name='AndroidSeason'
+include ':app'
